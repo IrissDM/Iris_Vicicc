@@ -1,0 +1,35 @@
+p {   
+	font-family: Georgia, serif;
+	font-size: 19px;
+	line-height: 14px;
+	background-color: lightblue;
+	width: 900px;
+	padding: 10px;
+}
+h1 { 
+	font-family: Garamond;
+	color: yellow;
+}
+body{ 
+	background-image: url("multimedij/pozadina.jpg");
+}
+ span {color:black}
+a:link{ 
+	color:black;
+	background-color: MistyRose;
+	padding: 5px;
+	line-height: 30px;
+}
+a:hover{
+	background-color: lightcyan;
+}
+li {
+	font-size: 18px
+}
+blockquote {
+	font-size: 18px;
+	background-color: MistyRose;
+	width: 320px;
+	padding: 5px;
+	border: 1px solid black;
+}
